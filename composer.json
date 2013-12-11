@@ -1,5 +1,5 @@
 {
-  "name":         "pear/pear_net_geoip",
+  "name":         "pear/net_geoip",
   "description":  "Determine physical location from IP address",
   "type":         "class",
   "keywords":     [ "Geo IP" ],
