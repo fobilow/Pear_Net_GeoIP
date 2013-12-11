@@ -17,7 +17,7 @@
   },
   "autoload":     {
     "psr-0": {
-      "PEAR": ""
+      "Net_GeoIP//Net": ""
     }
   },
   "include-path": ["."]
